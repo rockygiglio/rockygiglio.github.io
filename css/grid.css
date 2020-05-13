@@ -4,7 +4,7 @@
     font-size: 150%;
   }
   
-  .wrapper {
+  .boxwrapper {
     width: 100%;
     display: grid;
     grid-gap: 10px;
